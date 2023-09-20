@@ -10,7 +10,7 @@ Level at which we need to define our settings
 **Define the Settings**
 ```bash
 git config --global user.name "Sandeep Dewangan"
-git config --global user.email "customprojectindia@gmail.com"
+git config --global user.email "email@gmail.com"
 git config --global core.editor "code --wait"
 
 # Open editor to edit global settings
